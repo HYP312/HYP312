@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Syamsul
-- 👀 I’m interested in CS50
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Harvard University
-- 📫 How to contact me can be by checking my instagram @omega_yorha
+Hi there! 👋 I'm Omega Yorha
+Welcome to my digital playground where technology meets business innovation! 🚀
+About Me
+I'm a passionate developer and entrepreneur who lives at the intersection of code and commerce. My journey spans across multiple domains - from crafting elegant solutions in JavaScript, Python, and C++ to building businesses that make a real impact in the world.
 
-<!---
-HYP312/HYP312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's Connect!
+
+📸 Instagram: @omega_yorha
+💬 Always open to discussing AI, business opportunities, or just geeking out about code!
+
+
+"Code is poetry, AI is the future, and business is the canvas where dreams become reality" -Omega Yorha
